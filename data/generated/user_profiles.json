@@ -1,0 +1,50 @@
+[
+  {
+    "user_id": "user_a",
+    "preferred_brands": [
+      "Nike",
+      "Adidas",
+      "Puma"
+    ],
+    "preferred_categories": [
+      "Shoes",
+      "Sports",
+      "Clothing"
+    ],
+    "budget_min": 2000,
+    "budget_max": 5000,
+    "premium_preference": false
+  },
+  {
+    "user_id": "user_b",
+    "preferred_brands": [
+      "Samsung",
+      "Sony",
+      "Apple"
+    ],
+    "preferred_categories": [
+      "Electronics",
+      "Mobiles",
+      "TV"
+    ],
+    "budget_min": 15000,
+    "budget_max": 80000,
+    "premium_preference": true
+  },
+  {
+    "user_id": "user_c",
+    "preferred_brands": [
+      "Boat",
+      "HP",
+      "LG"
+    ],
+    "preferred_categories": [
+      "Headphones",
+      "Laptops",
+      "Accessories"
+    ],
+    "budget_min": 1000,
+    "budget_max": 25000,
+    "premium_preference": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c1",
+    "name": "Shoes",
+    "parent": "Sports"
+  },
+  {
+    "id": "c2",
+    "name": "Electronics",
+    "parent": "Electronics"
+  },
+  {
+    "id": "c3",
+    "name": "Mobiles",
+    "parent": "Electronics"
+  },
+  {
+    "id": "c4",
+    "name": "Laptops",
+    "parent": "Electronics"
+  },
+  {
+    "id": "c5",
+    "name": "Headphones",
+    "parent": "Electronics"
+  },
+  {
+    "id": "c6",
+    "name": "TV",
+    "parent": "Electronics"
+  },
+  {
+    "id": "c7",
+    "name": "Clothing",
+    "parent": "Fashion"
+  },
+  {
+    "id": "c8",
+    "name": "Watches",
+    "parent": "Fashion"
+  },
+  {
+    "id": "c9",
+    "name": "Sports",
+    "parent": "Sports"
+  },
+  {
+    "id": "c10",
+    "name": "Accessories",
+    "parent": "Fashion"
+  }
+]

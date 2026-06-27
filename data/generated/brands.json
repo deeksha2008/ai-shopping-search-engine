@@ -1,0 +1,52 @@
+[
+  {
+    "id": "b1",
+    "name": "Nike",
+    "category_focus": "Sports"
+  },
+  {
+    "id": "b2",
+    "name": "Samsung",
+    "category_focus": "Electronics"
+  },
+  {
+    "id": "b3",
+    "name": "Apple",
+    "category_focus": "Electronics"
+  },
+  {
+    "id": "b4",
+    "name": "Adidas",
+    "category_focus": "Sports"
+  },
+  {
+    "id": "b5",
+    "name": "Sony",
+    "category_focus": "Electronics"
+  },
+  {
+    "id": "b6",
+    "name": "Puma",
+    "category_focus": "Sports"
+  },
+  {
+    "id": "b7",
+    "name": "LG",
+    "category_focus": "Electronics"
+  },
+  {
+    "id": "b8",
+    "name": "Boat",
+    "category_focus": "Electronics"
+  },
+  {
+    "id": "b9",
+    "name": "Levi's",
+    "category_focus": "Fashion"
+  },
+  {
+    "id": "b10",
+    "name": "HP",
+    "category_focus": "Electronics"
+  }
+]
